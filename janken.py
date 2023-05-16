@@ -1,5 +1,5 @@
+#first push to github
 import random
-
 
 def get_choices():
   player_choice = input("Jan Ken! Enter a choice (rock, paper, scissors): ")
